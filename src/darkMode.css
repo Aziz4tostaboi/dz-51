@@ -1,0 +1,12 @@
+.dark {
+    background-color: #333;
+    color: #fff;
+}
+.light {
+    background-color: #fff;
+    color: #333;
+}
+.dark-light{
+    text-align: center;
+    font-size: 30px;
+}
